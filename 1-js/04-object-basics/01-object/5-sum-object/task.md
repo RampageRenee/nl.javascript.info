@@ -4,16 +4,16 @@ importance: 5
 
 # Sum object properties
 
-We have an object storing salaries of our team:
+We hebben een object waarin de salarissen van onst team in zijn opgeslagen:
 
 ```js
 let salaries = {
   John: 100,
   Ann: 160,
-  Pete: 130
-}
+  Pete: 130,
+};
 ```
 
-Write the code to sum all salaries and store in the variable `sum`. Should be `390` in the example above.
+Schrijf de code om alle salarissen op te tellen in de variabel `sum`. De uitkomst zou `390` moeten zijn.
 
-If `salaries` is empty, then the result must be `0`.
+Als `salaries` leeg is , zou het resultaat `0` moeten zijn.

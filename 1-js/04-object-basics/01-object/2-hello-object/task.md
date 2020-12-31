@@ -4,11 +4,10 @@ importance: 5
 
 # Hello, object
 
-Write the code, one line for each action:
+Schrijf de code, een lijn voor elke actie:
 
-1. Create an empty object `user`.
-2. Add the property `name` with the value `John`.
-3. Add the property `surname` with the value `Smith`.
-4. Change the value of the `name` to `Pete`.
-5. Remove the property `name` from the object.
-
+1. Maak een leeg object `user`.
+2. Voeg een property `name` toe met de waarde `John`.
+3. Voeg een property `surname` toe met de waarde `Smith`.
+4. Verander de waarde van de `name` naar `Pete`.
+5. Verwijder de property `name` van het object.

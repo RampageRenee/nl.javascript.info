@@ -1,1 +1,1 @@
-Just loop over the object and `return false` immediately if there's at least one property.
+loop over het object en `return false` zodra er op zijn minst een property is
